@@ -93,7 +93,7 @@ class _HomeState extends State<Home> {
                   child: TextField(
                     controller: _todoController,
                     decoration: const InputDecoration(
-                        hintText: 'Add a new todo item',
+                        hintText: 'Add a New todo item',
                         border: InputBorder.none),
                   ),
                 ),
